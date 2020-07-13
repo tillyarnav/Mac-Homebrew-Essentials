@@ -6,3 +6,6 @@
 
  - Type: `echo "[ -f /usr/local/etc/bash_completion.sh ] && . /usr/local/etc/bash_completion.sh" >> ~/.bash_prof`
  - Type to restart bash session: `source ~/.bash_profile`
+5. Install Git-Flow: <p>`brew install git-flow`</p>
+6. Install Links: <p>`brew install links`</p>
+7. Install nmap: <p>`brew install nmap`</p>
