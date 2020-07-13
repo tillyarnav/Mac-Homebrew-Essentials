@@ -1,5 +1,9 @@
 # Quick Mac Homebrew Setup (Essentials)
-## Installation 
+## Tabel of Contents 
+- [Installation] (#Installation)
+- [What Does it Look Like] (#What does it look like)
+- [What Do They Do?] (#What do they do)
+# Installation 
 1. Download Homebrew: <p>`/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"`</p>
 2. Install Neofetch using Homebrew: <p>`brew install neofetch`</p>
 3. Install htop: <p>`brew install htop`</p>
@@ -11,12 +15,12 @@
 6. Install Links: <p>`brew install links`</p>
 7. Install nmap: <p>`brew install nmap`</p>
 
-## **What does it look like?**
+# **What does it look like?**
 > Neofetch
 
 ![Neofetch GIF](http://g.recordit.co/Pm0fA9CobC.gif)
 
-## What do they do?
+# What do they do?
 #### Homebrew: A package manager that installs the stuff you need that Apple (or your Linux system) didn’t. - <a href="https://brew.sh/" target="_blank">Homebrew</a> 
 #### Neofetch: Neofetch displays information about your operating system, software and hardware in an aesthetic and visually pleasing way. - <a href="https://github.com/dylanaraps/neofetch" target="_blank">dylanaraps neofetch</a>
 #### Htop: An interactive process viewer for Unix systems. - <a href="https://hisham.hm/htop/" target="_blank">htop</a>
