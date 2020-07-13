@@ -9,3 +9,6 @@
 5. Install Git-Flow: <p>`brew install git-flow`</p>
 6. Install Links: <p>`brew install links`</p>
 7. Install nmap: <p>`brew install nmap`</p>
+
+**What does it look like?**
+![Neofetch GIF](http://g.recordit.co/Pm0fA9CobC.gif)
