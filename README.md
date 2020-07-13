@@ -12,6 +12,7 @@
 7. Install nmap: <p>`brew install nmap`</p>
 
 ## **What does it look like?**
+> Neofetch
 
 ![Neofetch GIF](http://g.recordit.co/Pm0fA9CobC.gif)
 
