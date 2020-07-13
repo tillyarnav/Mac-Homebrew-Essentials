@@ -15,3 +15,11 @@
 
 ![Neofetch GIF](http://g.recordit.co/Pm0fA9CobC.gif)
 
+## What do they do?
+#### Homebrew: A package manager that installs the stuff you need that Apple (or your Linux system) didn’t. - <a href="https://brew.sh/" target="_blank">Homebrew</a> 
+#### Neofetch: Neofetch displays information about your operating system, software and hardware in an aesthetic and visually pleasing way. - <a href="https://github.com/dylanaraps/neofetch" target="_blank">dylanaraps neofetch</a>
+#### Htop: An interactive process viewer for Unix systems. - <a href="https://hisham.hm/htop/" target="_blank">htop</a>
+#### Bash-Completion: bash-completion is a collection of command line command completions for the Bash shell, collection of helper functions to assist in creating new completions, and set of facilities for loading completions automatically on demand, as well as installing them. - <a href="https://github.com/scop/bash-completion" target="_blank">scop bash-completion</a>
+#### Git-Flow: A collection of Git extensions to provide high-level repository operations for Vincent Driessen's branching model. - <a href="https://github.com/nvie/gitflow" target="_blank">nvie git-flow</a> 
+#### Links: Links is a graphics and text mode web browser - <a href="http://links.twibright.com/" target="_blank">Twibright labs: Links</a>
+#### Nmap: Nmap ("Network Mapper") is a free and open source utility for network discovery and security auditing. - <a href ="https://nmap.org/" target="_blank">Nmap: the Network Mapper</a>
