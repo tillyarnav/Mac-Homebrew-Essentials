@@ -1,8 +1,8 @@
 # Quick Mac Homebrew Setup (Essentials)
 ## Tabel of Contents 
-- [Installation] (#Installation)
-- [What Does it Look Like] (#What does it look like)
-- [What Do They Do?] (#What do they do)
+- [Installation](#Installation)
+- [What does it look like](#Whatdoesitlooklike)
+- [What do they do?](#Whatdotheydo)
 # Installation 
 1. Download Homebrew: <p>`/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"`</p>
 2. Install Neofetch using Homebrew: <p>`brew install neofetch`</p>
