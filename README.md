@@ -2,7 +2,7 @@
 
 > Open your terminal and type the code into it.
 
-## Tabel of Contents 
+## Table of Contents 
 - [Installation](#Installation)
 - [What does it look like?](#What-does-it-look-like)
 - [What do they do?](#What-do-they-do)
