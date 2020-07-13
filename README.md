@@ -1,5 +1,7 @@
 # Quick Mac Homebrew Setup (Essentials)
 
+> Can be used for other unix based systems.
+
 > Open your terminal and type the code into it.
 
 ## Table of Contents 
