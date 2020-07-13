@@ -1,4 +1,7 @@
 # Quick Mac Homebrew Setup (Essentials)
+
+> Open your terminal and type the code into it.
+
 ## Tabel of Contents 
 - [Installation](#Installation)
 - [What does it look like?](#What-does-it-look-like)
