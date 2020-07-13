@@ -1,7 +1,7 @@
 # Quick Mac Homebrew Setup (Essentials)
 ## Tabel of Contents 
 - [Installation](#Installation)
-- [What does it look like](#What-does-it-look-like)
+- [What does it look like?](#What-does-it-look-like)
 - [What do they do?](#What-do-they-do)
 # Installation 
 1. Download Homebrew: <p>`/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"`</p>
