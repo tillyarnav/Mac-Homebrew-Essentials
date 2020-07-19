@@ -11,7 +11,7 @@
 # Installation 
 1. Download Homebrew: <p>`/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"`</p>
 
--Follow the instructions given once the download has finished.
+ - Follow the instructions given once the download has finished.
 2. Install Neofetch using Homebrew: <p>`brew install neofetch`</p>
 3. Install htop: <p>`brew install htop`</p>
 4. Install bash completion: <p>`brew install bash-completion`</p>
